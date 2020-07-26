@@ -1,5 +1,5 @@
 github guide following
 ======================
 
-The talk about main but their is no main, only master.
+The guide talks about 'main' but there is no main, only master.
 
