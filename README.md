@@ -1,4 +1,4 @@
 polymath
 ========
 
-First foray into OSS development
+Follow the Hello World! guide.
