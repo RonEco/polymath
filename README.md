@@ -1,4 +1,5 @@
-polymath
-========
+github guide following
+======================
 
-Follow the Hello World! guide.
+The talk about main but their is no main, only master.
+
